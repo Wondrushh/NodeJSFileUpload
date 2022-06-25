@@ -1,0 +1,19 @@
+{
+  "name": "ftp",
+  "version": "1.0.0",
+  "description": "ahaha",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-ftp": "^4.6.6",
+    "formidable": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
